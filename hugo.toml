@@ -10,6 +10,11 @@ locale = 'zh-cn'
   ShowBreadCrumbs = true
   defaultTheme = 'auto'
 
+[params.label]
+  text = 'WaterFlowers'
+  icon = '/images/avatar.jpg'
+  iconHeight = 235
+
 [params.homeInfoParams]
   Title = '嗨，我是 WaterFlowers 👋'
   Content = """
