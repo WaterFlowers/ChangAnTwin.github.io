@@ -1,26 +1,22 @@
 baseURL = 'https://waterflowers.github.io/'
-title = 'Waterflowers Knowledge'
+title = 'My Knowledge Base'
 theme = 'LoveIt'
-languageCode = 'en'
+locale = 'en'
 
 [params]
-
-
-  [params.home.profile]
-    enable = true
-    title = "Explore · Record · Share"
-    subtitle = "A personal knowledge repository"
-    avatarURL = "/images/avatar.jpg"
+  [params.home]
+    title = 'Explore · Record · Share'
+    subtitle = 'A personal knowledge repository'
+    avatar = '/images/avatar.jpg'
     social = true
-
-
 
   [params.author]
     name = 'WaterFlowers'
 
   [params.social]
-    GitHub = 'WaterFlowers'
-    Email = '326238137@qq.com'
+    github = 'WaterFlowers'
+    email = 'your@email.com'
+    rss = true
 
 [[menu.main]]
   name = 'Posts'
