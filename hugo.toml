@@ -5,6 +5,7 @@ locale = 'zh-cn'
 
 [params]
   # 首页个人简介模式（大气学术风）
+ customCSS = ["css/custom.css"]   # 这一行是关键！
   [params.home.profile]
     enable = true
     title = '探索 · 记录 · 分享'
@@ -12,6 +13,8 @@ locale = 'zh-cn'
    avatarURL = '/images/avatar.jpg'         # 如果有头像图片
     description = '这里是 WaterFlowers 的个人知识库，记录学习与思考。'
     social = true
+
+
 
   # 作者信息
   [params.author]

@@ -1,0 +1,8 @@
+/* 头像圆形裁剪 + 限制宽高 */
+.home-profile-avatar img {
+  width: 250px !important;      /* 宽度 */
+  height: 250px !important;     /* 高度（与宽度一致就是正圆） */
+  object-fit: cover;           /* 图片不变形，多余部分裁剪 */
+  border-radius: 50% !important; /* 圆形 */
+  margin: 0 auto;
+}
