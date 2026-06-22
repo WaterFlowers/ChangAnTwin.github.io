@@ -20,7 +20,8 @@
     <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
     <author>WaterFlowers</author>
     <guid>http://localhost:1313/posts/hello/</guid>
-    <description><![CDATA[<p>Welcome to my knowledge base! This is my first post.</p>]]></description>
+    <description><![CDATA[<p></p>
+<p>Welcome to my knowledge base! This is my first post.</p>]]></description>
 </item>
 <item>
     <title>Hello, World</title>
@@ -28,7 +29,8 @@
     <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
     <author>WaterFlowers</author>
     <guid>http://localhost:1313/posts/hellonihao/</guid>
-    <description><![CDATA[<p>hello,my name is hahahha.</p>]]></description>
+    <description><![CDATA[<p></p>
+<p>hello,my name is hahahha.</p>]]></description>
 </item>
 <item>
     <title>Hello, World哈哈哈</title>
@@ -36,7 +38,8 @@
     <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
     <author>WaterFlowers</author>
     <guid>http://localhost:1313/posts/hellonihaonihao/</guid>
-    <description><![CDATA[<p>世界是你们的</p>]]></description>
+    <description><![CDATA[<p></p>
+<p>世界是你们的</p>]]></description>
 </item>
 </channel>
 </rss>
