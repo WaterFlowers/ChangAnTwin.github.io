@@ -3,7 +3,16 @@
         <title>All Posts - Waterflowers Knowledge</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | Waterflowers Knowledge</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 22 Jun 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Test Cover Image</title>
+    <link>http://localhost:1313/posts/test-cover/</link>
+    <pubDate>Mon, 22 Jun 2026 00:00:00 &#43;0000</pubDate>
+    <author>WaterFlowers</author>
+    <guid>http://localhost:1313/posts/test-cover/</guid>
+    <description><![CDATA[<p></p>
+<p>这是一篇测试封面图的文章。</p>]]></description>
+</item>
+<item>
     <title>Hello, World</title>
     <link>http://localhost:1313/posts/hello/</link>
     <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
@@ -18,6 +27,14 @@
     <author>WaterFlowers</author>
     <guid>http://localhost:1313/posts/hellonihao/</guid>
     <description><![CDATA[<p>hello,my name is hahahha.</p>]]></description>
+</item>
+<item>
+    <title>Hello, World哈哈哈</title>
+    <link>http://localhost:1313/posts/hellonihaonihao/</link>
+    <pubDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</pubDate>
+    <author>WaterFlowers</author>
+    <guid>http://localhost:1313/posts/hellonihaonihao/</guid>
+    <description><![CDATA[<p>世界是你们的</p>]]></description>
 </item>
 </channel>
 </rss>

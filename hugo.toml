@@ -8,6 +8,9 @@ languageCode = 'en'
 
   customCSS = ['css/custom.css']
 
+[params.list]
+  showCover = true
+
   [params.header]
     [params.header.title]
       name = 'Waterflowers Knowledge'

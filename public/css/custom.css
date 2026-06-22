@@ -15,6 +15,7 @@ body {
 
 
 
+
 /* 强制头像为圆形，固定大小，不变形 */
 .home-profile-avatar img,
 .home-avatar img,
@@ -36,3 +37,41 @@ div[class*="profile"] img {
   background-size: cover;
   background-position: center;
 }
+
+
+/* 修改首页大标题 "Explore · Record · Share" */
+.home-title {
+  font-size: 1.5rem !important;      /* 改数字调大小 */
+  color: #2c3e50 !important;         /* 改这里换颜色 */
+  font-weight: 700;
+}
+
+/* 修改副标题（如果也想调） */
+.home-subtitle {
+  color: #32cd32 !important;
+  font-size: 1.1rem !important;
+}
+
+
+/* 修改文章图片的大小 */
+.post-cover img {
+  max-width: 800px;
+  border-radius: 8px;
+}
+
+
+/* 文章封面图容器（如果主题有） */
+.post-cover {
+  text-align: center;          /* 图片居中 */
+  margin-bottom: 10px;
+}
+.post-cover img {
+  width: 100%;                /* 充满容器宽度，或者设置固定值如 300px */
+  max-width: 400px;           /* 最大宽度，防止过大 */
+  height: auto;
+  border-radius: 8px;         /* 圆角，可选 */
+  display: block;
+  margin: 0 auto;             /* 居中 */
+}
+
+
