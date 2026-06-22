@@ -13,11 +13,11 @@ languageCode = 'en'
 
   [params.header]
     [params.header.title]
-      name = 'Waterflowers Knowledge'
+      name = 'WATERFLOWERS KNOWLEDGE'
 
   [params.home.profile]
     enable = true
-    title = "Explore · Record · Share"
+    title = "探索 · 记录 · 分享"
     subtitle = "A personal knowledge repository"
     avatarURL = "/images/avatar.jpg"
 
