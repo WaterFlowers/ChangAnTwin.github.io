@@ -39,3 +39,7 @@ languageCode = 'en'
   name = 'About'
   url = '/about/'
   weight = 3
+
+[languages]
+  [languages.en]
+    title = 'Waterflowers Knowledge'
