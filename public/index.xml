@@ -2,7 +2,7 @@
     <channel>
         <title>Waterflowers Knowledge</title>
         <link>http://localhost:1313/</link>
-        <description>This is my cool site</description>
+        <description>Waterflowers Knowledge</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 Jun 2026 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
